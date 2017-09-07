@@ -3,8 +3,9 @@ Athinodoros Sgouromallis, Emmely Lundberg, Martin Macej
 
 
 # List the all files that this program generates.
-  -price_list.csv
-  -prices.png
+  -/synced_folder/assignments/assignment_1/price_list.csv
+  -/synced_folder/assignments/assignment_1/price_list.txt
+  -/synced_folder/assignments/assignment_1/prices.png
   
 # Describe which types of files this program generates and attach the contents of each file together with its name to your solution.
 
