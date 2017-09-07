@@ -9,12 +9,14 @@ Athinodoros Sgouromallis, Emmely Lundberg, Martin Macej
 # Describe which types of files this program generates and attach the contents of each file together with its name to your solution.
 
 # What is the output of this program?
-  -CSV file with a columns: -street
-                            -city
-                            -price
-                            -sqm
-                            -price_per_sqm
-  -PNG graph with ??????
+  -The mean of the house prices.          
+    -CSV file with a columns: 
+                            -street                       
+                            -city                     
+                            -price                
+                            -sqm                  
+                            -price_per_sqm                        
+    -PNG graph with graphical representation of the mean
 
 # Describe in natural language and line-by-line what the program is doing. Describe also for each line what the Python code expresses.
 
