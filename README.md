@@ -102,7 +102,9 @@ Luftmarinegade 38,1432 København K,2485131,137,18139
 "Gothersgade 147, 3. TV",1123 København K,3622500,68,53272
 
 ## prices.png
+![alt text][prices]
 
+[prices]: https://github.com/BI-MotionlessProposal/Assignment-1/blob/master/prices.png "prices.png"
 
 
 # What is the output of this program?
